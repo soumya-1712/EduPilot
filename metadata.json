@@ -1,0 +1,8 @@
+{
+  "name": "EduPilot",
+  "description": "AI-powered education copilot for teachers in low-resource environments. Features curriculum planning, lesson generation, assessment, and adaptive remediation using Gemini 3 Pro.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
